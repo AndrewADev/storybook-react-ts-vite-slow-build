@@ -124,5 +124,6 @@
     "@storybook/web-components-webpack5": "7.1.0-alpha.0",
     "sb": "7.1.0-alpha.0",
     "storybook": "7.1.0-alpha.0"
-  }
+  },
+  "packageManager": "yarn@3.5.0"
 }
